@@ -1,5 +1,5 @@
 # 📌 Projeto Sistema de Agendamento de Tarefas
-O programa busca consultar, criar, alterar e remover as tarefas.
+Este simples programa busca permitir consultar, criar, alterar e remover as tarefas e agendamentos diveros realizados no sistema.
 
 ## 🚀 Tecnologias Utilizadas
 - [FastAPI](https://fastapi.tiangolo.com/)
